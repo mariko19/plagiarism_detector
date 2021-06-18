@@ -15,7 +15,7 @@ The Project Notebook I submitted for revision to Udacity's reviewers includes th
 
 **training file:** `source_sklearn`/`train.py`
 
-Note that `problem_unittests.py` and `helpers.py` are files that used for testing.
+Note that `problem_unittests.py` and `helpers.py` are files for testing.
 
 
 
