@@ -1,4 +1,5 @@
 # Plagiarism Detection Project
+This repository includes files for deploying a plagiarism detector using AWS SageMaker.
 
 ## Project Overview
 In this project, I am tasked with 
