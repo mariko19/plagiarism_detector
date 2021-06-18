@@ -19,7 +19,7 @@ The Project Notebook I submitted for revision to Udacity's reviewers includes th
 Note that `problem_unittests.py` and `helpers.py` are files for testing.
 
 ## Project Instructions 
-For more details about project, please refer to [GitHub pages](https://github.com/udacity/ML_SageMaker_Studies/tree/master/Project_Plagiarism_Detection). 
+For more details about project, please refer to [Udacity/ML SageMaker Studies](https://github.com/udacity/ML_SageMaker_Studies/tree/master/Project_Plagiarism_Detection). 
 
 
 
