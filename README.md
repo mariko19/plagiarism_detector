@@ -21,4 +21,4 @@ The Project Notebook includes the following files.
 Note that `problem_unittests.py` and `helpers.py` are files for testing.
 
 ## Project Instructions 
-For more details about project, please refer to [Udacity/ML SageMaker Studies](https://github.com/udacity/ML_SageMaker_Studies/tree/master/Project_Plagiarism_Detection). 
+For more details about the project, please refer to [Udacity/ML SageMaker Studies](https://github.com/udacity/ML_SageMaker_Studies/tree/master/Project_Plagiarism_Detection). 
